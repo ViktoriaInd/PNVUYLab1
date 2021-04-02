@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNVUYLab1", "PNVUYLab1\PNVUYLab1.csproj", "{B0763E73-106E-4F0D-98CC-062D5A4F9739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0763E73-106E-4F0D-98CC-062D5A4F9739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0763E73-106E-4F0D-98CC-062D5A4F9739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0763E73-106E-4F0D-98CC-062D5A4F9739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0763E73-106E-4F0D-98CC-062D5A4F9739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF89C553-FE5C-41D8-A55E-E967E974DE14}
+	EndGlobalSection
+EndGlobal
